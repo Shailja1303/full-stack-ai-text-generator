@@ -20,10 +20,18 @@ A full-stack AI text generation web application built using Flask, JavaScript, H
 - Hugging Face Transformers
 
 ## Installation
+## Installation
 
 ```bash
 pip install -r requirements.txt
+cd Backend
 python app.py
+```
+
+Open:
+
+```text
+http://127.0.0.1:5000
 ```
 
 Open:
